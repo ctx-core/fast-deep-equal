@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.0
+
+### Major Changes
+
+- public package
+
 ## 0.0.2
 
 ### Patch Changes

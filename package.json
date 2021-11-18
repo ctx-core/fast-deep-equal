@@ -1,7 +1,6 @@
 {
 	"name": "@ctx-core/fast-deep-equal",
-	"version": "0.0.2",
-	"private": true,
+	"version": "1.0.0",
 	"main": "./dist/index.js",
 	"module": "./dist/index.js",
 	"types": "./src/index.ts",
