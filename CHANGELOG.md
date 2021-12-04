@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.4
+
+### Patch Changes
+
+- @swc/core: ^1.2.116 -> ^1.2.117
+
 ## 1.0.3
 
 ### Patch Changes
