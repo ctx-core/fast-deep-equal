@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.6
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 1.0.5
 
 ### Patch Changes
