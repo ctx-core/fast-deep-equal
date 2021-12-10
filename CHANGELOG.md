@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.8
+
+### Patch Changes
+
+- package.json: - module
+
 ## 1.0.7
 
 ### Patch Changes
