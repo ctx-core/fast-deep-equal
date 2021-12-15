@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.10
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 1.0.9
 
 ### Patch Changes
