@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.15
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+
 ## 1.0.14
 
 ### Patch Changes
