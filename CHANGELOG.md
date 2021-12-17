@@ -1,5 +1,12 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.13
+
+### Patch Changes
+
+- @types/node: ^16.11.13 -> ^17.0.0
+- fix: build
+
 ## 1.0.12
 
 ### Patch Changes
