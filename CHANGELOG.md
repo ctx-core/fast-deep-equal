@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.16
+
+### Patch Changes
+
+- fix: npm publish: + dist,remove tsconfig.tsbuildinfo
+
 ## 1.0.15
 
 ### Patch Changes
