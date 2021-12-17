@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.14
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 1.0.13
 
 ### Patch Changes
