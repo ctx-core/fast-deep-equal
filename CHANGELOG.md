@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.17
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 1.0.16
 
 ### Patch Changes
