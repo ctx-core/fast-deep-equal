@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.18
+
+### Patch Changes
+
+- version bump
+
 ## 1.0.17
 
 ### Patch Changes
