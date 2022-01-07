@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.20
+
+### Patch Changes
+
+- fix: types
+
 ## 1.0.19
 
 ### Patch Changes
