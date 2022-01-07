@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fast-deep-equal",
-	"version": "1.0.20",
+	"version": "1.0.21",
 	"type": "module",
 	"types": "./lib/index.d.ts",
 	"exports": {
@@ -23,8 +23,8 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.125",
-		"@types/node": "^17.0.7",
+		"@swc/core": "^1.2.127",
+		"@types/node": "^17.0.8",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
