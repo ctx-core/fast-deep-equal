@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.22
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 1.0.21
 
 ### Patch Changes
