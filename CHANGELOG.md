@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.0.23
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 1.0.22
 
 ### Patch Changes

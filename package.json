@@ -1,12 +1,10 @@
 {
 	"name": "@ctx-core/fast-deep-equal",
-	"version": "1.0.22",
+	"version": "1.0.23",
 	"type": "module",
 	"types": "./lib/index.d.ts",
 	"exports": {
-		".": {
-			"import": "./lib/index.js"
-		},
+		".": "./lib/index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
