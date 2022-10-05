@@ -34,7 +34,11 @@ export function deep_equal(a, b) {
 			&& typeof a.valueOf === 'function'
 			&& typeof b.valueOf === 'function'
 		) return a.valueOf() === b.valueOf()
-		if (a.toString !== Object.prototype.toString) return a.toString() === b.toString()
+		if (
+			a.toString !== Object.prototype.toString
+			&& typeof a.toString === 'function'
+			&& typeof b.toString === 'function'
+		) return a.toString() === b.toString()
 		keys = Object.keys(a)
 		length = keys.length
 		if (length !== Object.keys(b).length) return false

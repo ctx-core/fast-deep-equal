@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.1.2
+
+### Patch Changes
+
+- deep_equal: fix: a.toString is not a function
+
 ## 1.1.1
 
 ### Patch Changes
