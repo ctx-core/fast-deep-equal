@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.1.1
+
+### Patch Changes
+
+- deep_equal: fix: a.valueOf is not a function
+
 ## 1.1.0
 
 ### Minor Changes

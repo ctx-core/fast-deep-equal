@@ -29,7 +29,11 @@ export function deep_equal(a, b) {
 			return true
 		}
 		if (a.constructor === RegExp) return a.source === b.source && a.flags === b.flags
-		if (a.valueOf !== Object.prototype.valueOf) return a.valueOf() === b.valueOf()
+		if (
+			a.valueOf !== Object.prototype.valueOf
+			&& typeof a.valueOf === 'function'
+			&& typeof b.valueOf === 'function'
+		) return a.valueOf() === b.valueOf()
 		if (a.toString !== Object.prototype.toString) return a.toString() === b.toString()
 		keys = Object.keys(a)
 		length = keys.length
