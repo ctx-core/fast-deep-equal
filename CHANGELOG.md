@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.1.3
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 1.1.2
 
 ### Patch Changes

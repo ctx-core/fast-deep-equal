@@ -23,7 +23,6 @@
 		],
 		"rootDir": "src",
 		"lib": ["dom", "ESNext"],
-		"importsNotUsedAsValues": "error",
 		"strict": true
 	},
 	"exclude": [
