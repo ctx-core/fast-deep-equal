@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.1.23
+
+### Patch Changes
+
+- version bump
+
 ## 1.1.22
 
 ### Patch Changes
