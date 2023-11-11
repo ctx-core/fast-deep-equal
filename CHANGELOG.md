@@ -1,5 +1,20 @@
 # @ctx-core/fast-deep-equal
 
+## 1.2.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+
 ## 1.1.24
 
 ### Patch Changes
