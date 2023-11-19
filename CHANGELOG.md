@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.2.5
+
+### Patch Changes
+
+- tsx: ^4.1.3 -> ^4.1.4
+
 ## 1.2.4
 
 ### Patch Changes
