@@ -1,12 +1,11 @@
 {
 	"name": "@ctx-core/fast-deep-equal",
-	"version": "1.2.8",
+	"version": "1.2.9",
 	"type": "module",
 	"files": [
 		"*.d.ts",
 		"*.js",
-		"*.json",
-		"./deep_equal"
+		"*.json"
 	],
 	"types": "./index.d.ts",
 	"exports": {
@@ -23,12 +22,12 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"fast-deep-equal": "^3.1.3"
+		"ctx-core": "^5.1.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
-		"tsx": "^4.6.2",
+		"tsx": "^4.7.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},

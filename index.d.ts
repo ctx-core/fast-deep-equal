@@ -1,1 +1,1 @@
-export * from './deep_equal/index.js'
+export * from 'ctx-core/deep_equal'
