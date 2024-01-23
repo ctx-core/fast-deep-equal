@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fast-deep-equal",
-	"version": "1.2.59",
+	"version": "1.2.60",
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -23,7 +23,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^5.27.1"
+		"ctx-core": "^5.27.2"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
