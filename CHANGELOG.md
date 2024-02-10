@@ -1,5 +1,13 @@
 # @ctx-core/fast-deep-equal
 
+## 1.2.86
+
+### Patch Changes
+
+- tsx: ^4.7.0 -> ^4.7.1
+- Updated dependencies
+  - ctx-core@6.1.2
+
 ## 1.2.85
 
 ### Patch Changes
