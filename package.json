@@ -1,6 +1,28 @@
 {
 	"name": "@ctx-core/fast-deep-equal",
-	"version": "1.2.108",
+	"version": "1.2.109",
+	"description": "forked fast-deep-equal using ESM",
+	"keywords": [
+		"fast",
+		"equal",
+		"deep-equal",
+		"fast-deep-equal",
+		"ctx-core"
+	],
+	"homepage": "https://github.com/ctx-core/fast-deep-equal#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/fast-deep-equal/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/fast-deep-equal.git"
+	},
+	"license": "Apache-2.0",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-fast-deep-equal@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
@@ -23,7 +45,7 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^6.6.0"
+		"ctx-core": "^6.6.1"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
@@ -33,13 +55,5 @@
 		"uvu": "^0.5.6"
 	},
 	"noUpdate": [],
-	"homepage": "https://github.com/ctx-core/fast-deep-equal#readme",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/fast-deep-equal.git"
-	},
-	"bugs": {
-		"url": "https://github.com/ctx-core/fast-deep-equal/issues"
-	},
 	"sideEffects": false
 }

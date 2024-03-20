@@ -1,5 +1,13 @@
 # @ctx-core/fast-deep-equal
 
+## 1.2.109
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 1.2.108
 
 ### Patch Changes
