@@ -1,5 +1,11 @@
 # @ctx-core/fast-deep-equal
 
+## 1.2.151
+
+### Patch Changes
+
+- ctx-core: ^7.2.24 -> ^7.2.25
+
 ## 1.2.150
 
 ### Patch Changes
