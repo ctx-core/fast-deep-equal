@@ -1,5 +1,13 @@
 # @ctx-core/fast-deep-equal
 
+## 1.2.160
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 1.2.159
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/fast-deep-equal",
-	"version": "1.2.159",
+	"version": "1.2.160",
 	"description": "forked fast-deep-equal using ESM",
 	"keywords": [
 		"fast",
